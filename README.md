@@ -12,5 +12,5 @@ NLP-based system to match resumes with job descriptions using BERT embeddings.
 Python, NLP, Sentence Transformers, Streamlit
 
 ## Run
-pip install -r requirements.txt
-streamlit run app.py
+- pip install -r requirements.txt
+- streamlit run app.py
